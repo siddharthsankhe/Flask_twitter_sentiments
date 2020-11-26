@@ -1,1 +1,1 @@
-# Flask_twitter_sentiments
+# real time sentiments analysis using keras trained model and vaderSentiment
